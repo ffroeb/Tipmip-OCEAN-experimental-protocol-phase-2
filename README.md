@@ -6,7 +6,7 @@ The attached files are:
 
 - create_SO_hose_mask.py - python code to create netcdf files and plot the spatial mask for applying idealised freshwater fluxes in the Southern Ocean (i.e., a total of 0.3Sv). Freshwater fluxes decrease exponentially with increasing distance from the coast off Antarctica, and are set to zero beyond 300 km. Follows definition of Swingedouw et al., 2026 and Jackson et al., 2023
 
-- grid.nc - grid file for BLOM, NorESM2, CMIP6
+- grid_tnx1v4.nc - grid file for BLOM, NorESM2, CMIP6
 
 
 References
